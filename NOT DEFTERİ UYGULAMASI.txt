@@ -1,0 +1,101 @@
+NOT DEFTERİ UYGULAMASI
+
+GÖREV #1
+Soldaki arayüzü yeni oluşturacağınız react uygulamasında bootstrap ile oluşturunuz.
+
+NOT: İlk görevde hiç bir butonun çalışıyor olmasına gerek yok. Sadece örnek verilerle benzer görünüm elde edilmesi yeterlidir.
+
+SÜRE: 20DK
+------------------------------------------
+GÖREV #2
+Not defterinin yazı yazılan büyük kutusu tüm ekranı kaplasın. Yani butonlar tarayıcın en altında görünsün ve en altına kadar metin kutusu uzasın.
+
+------------------------------------------
+
+GÖREV #3
+Verilen örnek verileri kullanarak bir state değişkeni oluştur
+[
+    { baslik: "Alışveriş Listesi", icerik: "Süt, ekmek, yumurta, meyve" },
+    { baslik: "Toplantı Notları", icerik: "Proje planlaması, görev dağılımı" },
+    { baslik: "Seyahat Planı", icerik: "Uçak bileti, otel rezervasyonu, turistik yerler" },
+    { baslik: "Öğrenilecek Konular", icerik: "JavaScript, HTML, CSS, React" }
+]
+
+Liste buna bağlı olsun ve bir öğeye tıklayınca sağ tarafta içeriği görünsün.
+
+SÜRE: 20DK
+
+------------------------------------------
+
+GÖREV #4
+
+Yeni butonuna basıldığında listenin sonu "Yeni Not" adında bir not eklensin ve secilsin ve formda gözüksün.
+
+SÜRE: 10DK
+
+------------------------------------------
+
+GÖREV #5
+
+Kaydet ve Sil butonları işlevsel hale gelecek. 
+
+Eğer hiç not yoksa ya da seçili değilse formu disabled yap
+
+SÜRE: 20DK
+
+------------------------------------------
+
+GÖREV #6
+
+Kaydet/Sil/Yeni Sonrası bildirim ver
+
+SÜRE: 10DK
+
+------------------------------------------
+
+GÖREV #7
+
+Verilerin localstorage'da saklanması ve açılışta yüklenmesi
+
+SÜRE: 10DK
+
+------------------------------------------
+
+GÖREV #8
+
+Öğe silinince aynı yerdeki, mümkün değilse de üstündeki seçilsin
+
+SÜRE: 10DK
+
+------------------------------------------
+
+GÖREV #9
+
+Sütunların genişliklerinin responsive ayarlanması
+SÜRE: 5DK
+
+------------------------------------------
+
+GÖREV #10
+
+Eğer çok fazla not eklenirse -NOT BAŞLIKLARI ÜZERİNDE- scroll bar çıksın. (tüm sayfada değil)
+SÜRE: 10DK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
